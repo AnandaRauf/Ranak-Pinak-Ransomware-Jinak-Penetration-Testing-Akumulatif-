@@ -1,5 +1,5 @@
 Ranak-Pinak Ransomware Jinak Penetration Testing Akumulatif 
-Software for create safe virus ransomware, encrypt-decrypt file using AES.
+Software for create safe virus ransomware, encrypt-decrypt file using Rinnjdael.
 extention file : *ranakpinak.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
