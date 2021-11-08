@@ -1,7 +1,7 @@
 Ranak-Pinak Ransomware Jinak Penetration Testing Akumulatif 
-Software for create safe virus ransomware, encrypt-decrypt file using Rinnjdael.
+Software for create safe virus ransomware.
 extention file : *ranakpinak.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to contribute?:
 
@@ -9,7 +9,7 @@ How to contribute?:
 - Net Framework version 4.7.2 : https://dotnet.microsoft.com/download/dotnet-framework/net472
 - Open project extention file : *sln.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Are you search Tech Leader (CTO,Senior Manager Developer, Senior Programmer)?
 
