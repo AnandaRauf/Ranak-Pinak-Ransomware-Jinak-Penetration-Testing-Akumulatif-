@@ -6,6 +6,7 @@ extention file : *ranakpinak.
 How to contribute?:
 
 - Download Visual Studio : visualstudio.microsoft.com/downloads
+- Net Framework version 4.7.2 : https://dotnet.microsoft.com/download/dotnet-framework/net472
 - Open project extention file : *sln.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
