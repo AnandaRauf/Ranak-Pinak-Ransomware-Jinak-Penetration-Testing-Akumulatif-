@@ -1,7 +1,7 @@
 Ranak-Pinak Ransomware Jinak Penetration Testing Akumulatif 
 Software for create safe virus ransomware.
 extention file : *ranakpinak.
-![alt text](https://raw.githubusercontent.com/AnandaRauf/Git-Introduction/master/Ananda%20Rauf%20Maududi_Universitas%20Bina%20Sarana%20Informatika/Ss.png)
+![Ranak Pinak](https://raw.githubusercontent.com/AnandaRauf/Ranak-Pinak-Ransomware-Jinak-Penetration-Testing-Akumulatif-/main/ranakpinak%20icon%20new.ico)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to contribute?:
