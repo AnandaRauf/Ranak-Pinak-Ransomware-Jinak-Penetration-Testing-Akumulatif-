@@ -1,0 +1,1 @@
+# Ranak-Pinak-Ransomware-Jinak-Penetration-Testing-Akumulatif-
