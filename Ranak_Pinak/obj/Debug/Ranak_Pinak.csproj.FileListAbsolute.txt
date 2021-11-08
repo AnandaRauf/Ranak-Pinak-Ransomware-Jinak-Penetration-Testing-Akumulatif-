@@ -1,0 +1,11 @@
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\bin\Debug\Ranak_Pinak.exe
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\bin\Debug\Ranak_Pinak.exe.config
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\bin\Debug\Ranak_Pinak.pdb
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\obj\Debug\Ranak_Pinak.csprojAssemblyReference.cache
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\obj\Debug\Ranak_Pinak.AboutApp.resources
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\obj\Debug\Ranak_Pinak.Form1.resources
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\obj\Debug\Ranak_Pinak.Properties.Resources.resources
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\obj\Debug\Ranak_Pinak.csproj.GenerateResource.cache
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\obj\Debug\Ranak_Pinak.csproj.CoreCompileInputs.cache
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\obj\Debug\Ranak_Pinak.exe
+C:\Users\Ananda Rauf Maududi\source\repos\Ranak_Pinak\Ranak_Pinak\obj\Debug\Ranak_Pinak.pdb
